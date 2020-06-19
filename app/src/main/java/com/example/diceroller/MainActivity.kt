@@ -35,10 +35,9 @@ class MainActivity : AppCompatActivity() {
         }
         imageView.setImageResource(drawableResource)
         var i = 0
-        while (i > 5) {
+        while (i < 75) {
             i++
         }
-        //just doin' this 'cause can't push to git
         i = 0
     }
 }
