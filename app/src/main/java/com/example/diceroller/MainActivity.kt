@@ -34,6 +34,10 @@ class MainActivity : AppCompatActivity() {
             else -> R.drawable.dice_6
         }
         imageView.setImageResource(drawableResource)
-
+        var i = 0
+        while (i > 5) {
+            i++
+        }
+        //just doin' this 'cause can't push to git
     }
 }
