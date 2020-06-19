@@ -34,10 +34,6 @@ class MainActivity : AppCompatActivity() {
             else -> R.drawable.dice_6
         }
         imageView.setImageResource(drawableResource)
-        var i = 0
-        while (i < 75) {
-            i++
-        }
-        i = 0
+        
     }
 }
