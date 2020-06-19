@@ -39,5 +39,6 @@ class MainActivity : AppCompatActivity() {
             i++
         }
         //just doin' this 'cause can't push to git
+        i = 0
     }
 }
